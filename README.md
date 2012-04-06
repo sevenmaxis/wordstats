@@ -1,6 +1,6 @@
 # Wordstats
 
-TODO: Write a gem description
+Steal word statistics from wordstat.yandex.ru
 
 ## Installation
 
@@ -18,7 +18,8 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Type command `wordstats`, wait for some time
+
 
 ## Contributing
 

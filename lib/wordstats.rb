@@ -91,7 +91,7 @@ module Wordstats
       @current_page ||= 1
       puts ""
       puts ""
-      puts "++++++++++ Page #{@current_page} ++++++++++++++++++++++++++++++"
+      puts "++++++++++ Page #{@current_page} +++++++++++++++++++++++++++++++++++++++++++++"
       puts "| words                                            |   counts |"
       puts str
       start_index = (@current_page - 1) * RECORDS_PER_PAGE
