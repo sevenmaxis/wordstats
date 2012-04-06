@@ -6,7 +6,7 @@ Gem::Specification.new do |gem|
   gem.authors       = ["Sergey Gopkalo"]
   gem.email         = ["Sergey.Gopkalo@gmail.com"]
   gem.description   = %q{Steal wordstats from yandex}
-  gem.summary       = %q{TODO: Write a gem summary}
+  gem.summary       = %q{Retrieve wordstats from wordstat.yandex.ru }
   gem.homepage      = ""
 
   gem.add_development_dependency "mechanize"
